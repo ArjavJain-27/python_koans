@@ -243,13 +243,12 @@ https://github.com/mswell/python_koans_br
 Acknowledgments
 ---------------
 
-Thanks go to Jim Weirich and Joe O'Brien for the original Ruby Koans that the
-Python Koans is based on! Also the Ruby Koans in turn borrows from Metakoans
-so thanks also go to Ara Howard for that!
+Thanks to **Jim Weirich** and **Joe O'Brien** for creating the original **Ruby Koans**, which inspired **Python Koans**. Ruby Koans itself was inspired by **Metakoans**, so special thanks also go to **Ara Howard** for that foundation.
 
-Also thanks to everyone who has contributed to Python Koans! I got a great
-headstart by taking over a code base initiated by the combined Mikes of
-FPIP. So here's a little plug for their very cool Python podcast:
+A heartfelt thank you to everyone who has contributed to **Python Koans** over the years. This project benefited greatly from the work started by the talented team at **FPIP**, giving it an excellent foundation to build upon.
+
+If you're interested in learning more, be sure to check out the FPIP team's excellent Python podcast!
+
 
 * https://www.frompythonimportpodcast.com/
 
